@@ -1,0 +1,11 @@
+{
+  "tiles_locations": [
+    "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
+    "{HOME_DIR}\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+  ],
+  "path_images": "D:\\Wallpapers\\4K\\Icons\\ICR_Recolor",
+  "path_background_images": "D:\\Wallpapers\\4K\\Icons\\Material_Shapes\\ICR_Recolor",
+  "text_color": "light",
+  "text_color_fill": "light",
+  "background_color": "#090909"
+}

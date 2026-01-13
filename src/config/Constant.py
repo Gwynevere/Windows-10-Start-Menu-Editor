@@ -1,0 +1,53 @@
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+ERROR_RED = (213, 0, 0)
+GREEN = (120, 255, 120)
+RED = (136, 14, 79)
+
+WHITE_SPACE = ' '
+
+HOME_DIR = '{HOME_DIR}'
+
+XML_FILE_EXT = 'xml'
+PNG_FILE_EXT = 'png'
+
+XML_VEM_FILE_NAME = 'VisualElementsManifest'
+XML_VEM_ROOT_NAME = 'Application'
+XML_VEM_ROOT_ATTRIBUTE_NS = 'xmlns:xsi'
+XML_VEM_ROOT_ATTRIBUTE_NS_VALUE = 'http://www.w3.org/2001/XMLSchema-instance'
+XML_VEM_ELEMENT_VE = 'VisualElements'
+XML_VEM_ELEMENT_VE_ATTRIBUTE_I = 'ShowNameOnSquare150x150Logo'
+XML_VEM_ELEMENT_VE_ATTRIBUTE_II = 'Square150x150Logo'
+XML_VEM_ELEMENT_VE_ATTRIBUTE_III = 'Square70x70Logo'
+XML_VEM_ELEMENT_VE_ATTRIBUTE_IV = 'ForegroundText'
+XML_VEM_ELEMENT_VE_ATTRIBUTE_V = 'BackgroundColor'
+
+XML_MD_FOLDER_NAME = 'VisualElements'
+XML_MD_M_FILE_NAME = 'MediumIcon{}_Metadata'
+XML_MD_S_FILE_NAME = 'SmallIcon{}_Metadata'
+
+XML_MD_ROOT_NAME = 'ShortcutItemImage'
+XML_MD_ROOT_ATTRIBUTE_NS_XSD = 'xmlns:xsd'
+XML_MD_ROOT_ATTRIBUTE_NS_XSD_VALUE = 'http://www.w3.org/2001/XMLSchema'
+XML_MD_ROOT_ATTRIBUTE_NS_XSI = 'xmlns:xsi'
+XML_MD_ROOT_ATTRIBUTE_NS_XSI_VALUE = 'http://www.w3.org/2001/XMLSchema-instance'
+XML_MD_ELEMENT_OB = 'OriginalBytes'
+XML_MD_ELEMENT_OP = 'OriginalPath'
+XML_MD_ELEMENT_H = 'Height'
+XML_MD_ELEMENT_W = 'Width'
+XML_MD_ELEMENT_X = 'X'
+XML_MD_ELEMENT_Y = 'Y'
+
+PNG_MD_M_FILE_NAME = 'MediumIcon{}'
+PNG_MD_S_FILE_NAME = 'SmallIcon{}'
+
+IMG_RES_MED = 200
+IMG_RES_MIN = 100
+
+TILE_IMG_MED_RES = 48
+TILE_IMG_MED_X = 26
+TILE_IMG_MED_Y = 26
+
+TILE_IMG_MIN_RES = 28
+TILE_IMG_MIN_X = 11
+TILE_IMG_MIN_Y = 11
